@@ -1,0 +1,42 @@
+*, *:before, *:after {
+    box-sizing: inherit;
+  }
+  body{
+    background-image: url('/images/ico-websites-background-placeholder-image.jpg');
+  }
+  #mydiv {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    
+    
+}
+  .sk2{
+    color: white;
+   
+  }
+  .save{
+    margin-top: 0 !important;
+  }
+  #paint-app {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    
+    
+  }
+  .paint{
+  
+  }
+  .lol{
+    background-color: black ;
+  }
+  /* For any shape tools that need a live preview */
+  .placeholder {
+    position:absolute;
+    z-index:999;
+  }
