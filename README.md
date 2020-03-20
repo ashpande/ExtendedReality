@@ -13,9 +13,13 @@ Integrating the different technologies involved occasionally overwhelmed the pro
 
 # Examples and UI
 
-Video: https://www.youtube.com/watch?time_continue=50&v=8u3bYXxyju4&feature=emb_title
+Video: https://www.youtube.com/watch?v=8u3bYXxyju4
 
 ![Hardware Setup](https://github.com/AshutoshPandey123456/ExtendedReality/blob/master/HBB1.JPG)
 
 ![Snapshot](https://github.com/AshutoshPandey123456/ExtendedReality/blob/master/HBB2.JPG)
+
+# Devfolio Page Link
+
+https://devfolio.co/submissions/extended-reality-1
 
